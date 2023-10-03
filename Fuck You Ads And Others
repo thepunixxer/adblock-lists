@@ -93,13 +93,6 @@ www.symbianize.com##.js-notices.notices--bottom_fixer.notices
 ! 2023-09-12 https://www.ig.com
 www.ig.com##.esma-theme-light.esma-mobile-font-size-small.hide-esmaBtn__both.esma-rw__wrapper
 
-! apply globally
-*##+js(abf)
-
-! except on these domains
-youtube.com#@#+js(abf)
-google.com#@#+js(abf)
-
 ! 2023-09-17 https://yts.mx
 yts.mx##.uy.visible-xs.re.visible-sm.hfc
 yts.mx###iwkjdooqw > .col-lg-12.col-md-13.col-sm-10
