@@ -1,130 +1,60 @@
 [Adblock Plus 2.0; uBlock Origin]
 ! Title: Fuck You Ads And Others
-
-! 2023-08-29 http://freevpn.us
 freevpn.us##.p-1.text-white-50.small.text-center.bg-dark > div
-
-! 2023-08-29 https://tcpvpn.com
 tcpvpn.com##span.label-success.label:nth-of-type(1)
-
-! 2023-08-30 https://fastssh.com
 ||fastssh.com/images/bypasser-vpn.png$image
 fastssh.com##.redtext
-
-! 2023-08-30 https://www.fastssh.com
 www.fastssh.com###menu2
-
-! 2023-08-30 https://ssyoutube.com
 ssyoutube.com##.widget__button--link.widget__button
 ssyoutube.com##.widget__text
 ssyoutube.com##.widget__title
 ssyoutube.com##.widget__container
-
-! 2023-08-31 https://www.scribd.com
 www.scribd.com##.user_dismiss.entered.login_join_modal.wrapper
-
-! 2023-08-31 https://torrentsites.com
 torrentsites.com##.info
 ||torrentsites.com/wp-content/uploads/2023/08/banner-test-torrent-5.png$image
-
 torrentsites.com##[src="https://torrentsites.com/wp-content/uploads/2023/08/banner-test-torrent-5.png"]
 torrentsites.com##[src="https://torrentsites.com/wp-content/uploads/2023/06/BANNER-TORRENT-SITES.png"]
-
-! 2023-09-01 https://torrentsites.com
 torrentsites.com##.category.block-vpn
-
-! 2023-09-01 https://howdy.id
 howdy.id##div.bg-white.py-6 > .container > .text-center
 howdy.id##div.bg-white.py-6:nth-of-type(2)
-
-! 2023-09-01 https://sshocean.com
 sshocean.com##li:nth-of-type(9)
-
-! 2023-09-02 https://search.brave.com
 search.brave.com##footer
-
-! 2023-09-03 https://yts.mx
 yts.mx##div.row:nth-of-type(3)
 yts.mx##.container > div.row:nth-of-type(2) > .col-xs-20
-
-! 2023-09-05 https://phcorner.net
 phcorner.net##.p-body-content > .ads-container-hf
 phcorner.net##.p-body-pageContent > .ads-container-hf > .adsbygoogle
-
-! 2023-09-06 https://status.phc.onl
 status.phc.onl##.note-bordered.note-danger.note
-
-! 2023-09-07 https://phcorner.net
 phcorner.net##.p-body-sidebar > .ads-container-hf > .adsbygoogle
 phcorner.net##.ads-container-hf > .block-minorHeader
 phcorner.net##.ads-container-hf.block-container
 phcorner.net##.js-replyNewMessageContainer.block-body > .ads-container-hf > .adsbygoogle
-
-! 2023-09-08 https://phcorner.net
 phcorner.net##.ads-container-hf.message
-
-! 2023-09-08 https://diylangyan.com
-diylangyan.com###cookie-law-info-bar
-
-! 2023-09-08 https://torrentgalaxy.to
-||img.wonkychickens.org/data/cover/stat/z4/sg_nf_long8.jpg$image
-||img.wonkychickens.org/data/cover/stat/z4/sg_nf_long8.jpg$image
 torrentgalaxy.to##.gluewrapper > div > div > div > [href^="/sub.php"]
 torrentgalaxy.to##.slidingDivf-dca35c15735cf93484f0228060eeadafceaab2ac.panel-body > div > div > [href]
 torrentgalaxy.to##.control-group.container-fluid > .container-fluid > div > div > div > [href]
-
-! 2023-09-09 https://crackshash.com
 crackshash.com##.ad-boxxx
 crackshash.com##.wp-ad.wp-ad-top
 crackshash.com##.ad-box-below
-
-! 2023-09-09 https://duckduckgo.com
 duckduckgo.com##.footer--mobile
-
-! 2023-09-11 https://www.designify.com
 www.designify.com###__next > .css-0
-
-! 2023-09-11 https://phcorner.net
 phcorner.net##.js-notices.notices--bottom_fixer.notices
-
-! 2023-09-11 https://www.symbianize.com
 www.symbianize.com##.js-notices.notices--bottom_fixer.notices
-
-! 2023-09-12 https://www.ig.com
 www.ig.com##.esma-theme-light.esma-mobile-font-size-small.hide-esmaBtn__both.esma-rw__wrapper
-
-! 2023-09-17 https://yts.mx
 yts.mx##.uy.visible-xs.re.visible-sm.hfc
 yts.mx###iwkjdooqw > .col-lg-12.col-md-13.col-sm-10
 yts.mx##.bbj.tr.hidden-xs.hidden-sm.jhjh
-
-! 2023-09-17 https://softwarekeep.com
 softwarekeep.com##div:nth-of-type(7)
-
-! 2023-09-18 https://m.facebook.com
 m.facebook.com##.bottom.fixed-container.m > .bg-s3.m
-
-! 2023-09-26 https://xhamster.com
 xhamster.com##.pinned-35203.container-e696b
 xhamster.com##aside.pinned-35203:nth-of-type(1)
-
-! 2023-09-27 https://www.ssemble.com
 www.ssemble.com##.simple-banner-scrolling.simple-banner
-
-! 2023-09-28 https://manilatonight.com
 manilatonight.com##li.ipsResponsive_hideDesktop.ipsResponsive_hideTablet.ipsResponsive_block.ipsBox.ipsWidget_horizontal.ipsWidget:nth-of-type(3)
 manilatonight.com##li.ipsResponsive_hideDesktop.ipsResponsive_hideTablet.ipsResponsive_block.ipsBox.ipsWidget_horizontal.ipsWidget > .ipsSpacer_half.ipsSpacer_both.ips4305190af9 > .ipsList_noSpacing.ipsList_reset.ipsType_center.ipsList_inline > .ipsAreaBackground_light.ipsResponsive_inlineBlock.ipsResponsive_showPhone.ips4305190af9_small > [href^="https://manilatonight.com/index.php"] > .ipsContained.ipsImage
 manilatonight.com##li.ipsResponsive_hideDesktop.ipsResponsive_hideTablet.ipsResponsive_block.ipsBox.ipsWidget_horizontal.ipsWidget > .ipsSpacer_half.ipsSpacer_both.ips4305190af9 > .ipsList_noSpacing.ipsList_reset.ipsType_center.ipsList_inline
 manilatonight.com###ipsLayout_sidebar > .cWidgetContainer > .ipsList_reset
-
-! 2023-09-28 https://www.skyscrapercity.com
 www.skyscrapercity.com##.js-notices.notices--block.notices
-
-! 2023-10-01 https://hampager.de
 hampager.de##.Cookie--dark-lime.Cookie--bottom.Cookie
-
-! 2023-10-03 https://cafebazaar.ir
 cafebazaar.ir##.BottomSheet__content
-
-! 2023-10-03 https://www.okx.com
 www.okx.com##.app-box
+www.perfect-privacy.com###cookiebar
+rxx.rocks##.cookieAcceptBar.outside
