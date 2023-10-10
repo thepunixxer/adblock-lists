@@ -59,3 +59,7 @@ www.okx.com##.app-box
 www.perfect-privacy.com###cookiebar
 rxx.rocks##.cookieAcceptBar.outside
 cybernews.com##.cookie-policy--is-open.cookie-policy
+www.ovpn.com##.bg-white.shadow-md.rounded-lg.p-4
+www.linksysinfo.org##.notice--cookie.notice--primary.js-notice.notice
+www.linksysinfo.org##.js-notices.notices--floating.notices > .notice--primary.js-notice.notice > .notice-content
+www.truenas.com##.notice-content
