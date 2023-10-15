@@ -19,8 +19,6 @@ howdy.id##div.bg-white.py-6 > .container > .text-center
 howdy.id##div.bg-white.py-6:nth-of-type(2)
 sshocean.com##li:nth-of-type(9)
 search.brave.com##footer
-yts.mx##div.row:nth-of-type(3)
-yts.mx##.container > div.row:nth-of-type(2) > .col-xs-20
 phcorner.net##.p-body-content > .ads-container-hf
 phcorner.net##.p-body-pageContent > .ads-container-hf > .adsbygoogle
 status.phc.onl##.note-bordered.note-danger.note
@@ -68,3 +66,6 @@ mega.io##.cookie-banner
 www.makeuseof.com##._1U8keQ4i
 www.makeuseof.com##.aJVLc6uP
 www.makeuseof.com##._5kE-6aUK._9r0K-Oum
+storgykids.wordpress.com##.widget_eu_cookie_law_widget.widget
+yts.mx##div.row:nth-of-type(2) > .col-xs-20 > .text-center > li
+yts.mx##div.row:nth-of-type(3) > .col-xs-20 > .text-center
