@@ -73,3 +73,8 @@ www.vpnjantit.com##center:nth-of-type(1)
 www.vpnjantit.com##center:nth-of-type(2)
 www.vpnjantit.com##center:nth-of-type(3)
 www.vpnjantit.com##center:nth-of-type(4)
+! 2023-10-17 https://www.cointr.pro
+www.cointr.pro##.bg-t1.-bottom-10.pb-10.w-full.left-0.fixed.box-content
+www.bidsbee.com##.Notify_wrapper__jP31T
+www.bitfufu.com##.download-footer.footer-content
+apkdone.com###cookie-law-info-bar
