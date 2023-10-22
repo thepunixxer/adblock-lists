@@ -1,10 +1,7 @@
 [Adblock Plus 2.0; uBlock Origin]
 ! Title: The Punixxer Adblock And Others
-freevpn.us##.p-1.text-white-50.small.text-center.bg-dark > div
-tcpvpn.com##span.label-success.label:nth-of-type(1)
 ||fastssh.com/images/bypasser-vpn.png$image
 fastssh.com##.redtext
-www.fastssh.com###menu2
 ssyoutube.com##.widget__button--link.widget__button
 ssyoutube.com##.widget__text
 ssyoutube.com##.widget__title
@@ -17,7 +14,6 @@ torrentsites.com##[src="https://torrentsites.com/wp-content/uploads/2023/06/BANN
 torrentsites.com##.category.block-vpn
 howdy.id##div.bg-white.py-6 > .container > .text-center
 howdy.id##div.bg-white.py-6:nth-of-type(2)
-sshocean.com##li:nth-of-type(9)
 search.brave.com##footer
 phcorner.net##.p-body-content > .ads-container-hf
 phcorner.net##.p-body-pageContent > .ads-container-hf > .adsbygoogle
@@ -142,3 +138,12 @@ connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.
 ||browserleaks.com/js/javascript.js$script
 ||cdn-net.com/cc.js$script
 ||maxmind.com/v/*/js/device.js$script
+freeproxyupdate.com##div.container:nth-of-type(5)
+www.vpnjantit.com##body > center > .adsbygoogle
+www.vpnjantit.com###free > .container > .d-flex.row > center > .adsbygoogle
+www.vpnjantit.com##.container > center > .adsbygoogle
+www.vpnjantit.com###premi > .container > .d-flex.row > center > .adsbygoogle
+www.vpnjantit.com##form > center > div > .adsbygoogle
+www.vpnjantit.com##.kolbuatakun2 > center > div > .adsbygoogle
+www.vpnjantit.com##.text-left.border.services.block-6.media > center > div > .adsbygoogle
+www.bitrue.com##.cookieWrap
