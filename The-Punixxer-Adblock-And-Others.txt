@@ -147,3 +147,13 @@ www.vpnjantit.com##form > center > div > .adsbygoogle
 www.vpnjantit.com##.kolbuatakun2 > center > div > .adsbygoogle
 www.vpnjantit.com##.text-left.border.services.block-6.media > center > div > .adsbygoogle
 www.bitrue.com##.cookieWrap
+/ads.js$script
+/dfp.min.js$script
+/js/vpn.js$script
+/js/api.js$script
+/js/bundle.js$script
+/js/creator.js$script
+/js/rebuild.js$script
+fastssh.com##+js(no-fetch-if, doubleclick)
+fastssh.com#@#.ad-box
+fastssh.com#@#.ad-wrapper
