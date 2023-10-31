@@ -157,3 +157,13 @@ www.bitrue.com##.cookieWrap
 fastssh.com##+js(no-fetch-if, doubleclick)
 fastssh.com#@#.ad-box
 fastssh.com#@#.ad-wrapper
+modcombo.com###cookie-notice-bar
+watchsomuch.to##.getVIPAds.information
+watchsomuch.to##.btn-warning.btn
+bcgame.top##.c16qooni
+www.ipaddress.com###myip > div.shadowbox:nth-of-type(2)
+award-vpn.com##.cookies-consent
+www.scaleway.com##.fvzQEF.sc-dGCmGc
+vladtalks.tech##.cookie-notice-container
+www.honeygain.com##.cgsvr.sc-jrkPcm
+en.savefrom.net##.dh-top-banner.alt-smart-app-br
