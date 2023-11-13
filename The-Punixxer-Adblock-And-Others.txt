@@ -167,3 +167,8 @@ www.scaleway.com##.fvzQEF.sc-dGCmGc
 vladtalks.tech##.cookie-notice-container
 www.honeygain.com##.cgsvr.sc-jrkPcm
 en.savefrom.net##.dh-top-banner.alt-smart-app-br
+snaptik.app##.ad-item
+snaptik.app##.is-mobile-only.ad-sticky
+www.ritemed.com.ph##.alert-cookie-notice-wrapper
+bincheck.io##.dark\:bg-gray-900.dark\:text-gray-100.bg-white.Bianity-ads
+iin-bin.com##.cookie_conscent
