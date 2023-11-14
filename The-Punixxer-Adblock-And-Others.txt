@@ -172,3 +172,5 @@ snaptik.app##.is-mobile-only.ad-sticky
 www.ritemed.com.ph##.alert-cookie-notice-wrapper
 bincheck.io##.dark\:bg-gray-900.dark\:text-gray-100.bg-white.Bianity-ads
 iin-bin.com##.cookie_conscent
+mytoolz.net##[src="https://mytoolz.net/assets/images/t.png"]
+mytoolz.net##.__b-popup1__.b-modal
