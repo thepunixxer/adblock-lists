@@ -178,3 +178,4 @@ www.ipaddress.com##[src="https://spokeoaffiliates.com/v2/banners/email/?ftype=em
 /gpt.js$script
 /publisher/*/truereachAdRender.js$script
 yts.mx##.uy.vaa830e9059a42xs.rtw.vaa830e9059a42sm.hfc
+yts.*##.container.home-content > div:has([href][rel="noindex, nofollow"])
