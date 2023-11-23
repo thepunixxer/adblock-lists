@@ -178,3 +178,4 @@ www.ipaddress.com##[src="https://spokeoaffiliates.com/v2/banners/email/?ftype=em
 /gpt.js$script
 /publisher/*/truereachAdRender.js$script
 yts.mx##.uy
+yts.mx##.ioo
