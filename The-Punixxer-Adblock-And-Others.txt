@@ -179,3 +179,4 @@ www.ipaddress.com##[src="https://spokeoaffiliates.com/v2/banners/email/?ftype=em
 /publisher/*/truereachAdRender.js$script
 yts.mx##.uy
 yts.mx##.ioo
+www.avast.com##.sticky-post-widget
