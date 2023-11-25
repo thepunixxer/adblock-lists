@@ -180,3 +180,5 @@ www.ipaddress.com##[src="https://spokeoaffiliates.com/v2/banners/email/?ftype=em
 yts.mx##.uy
 yts.mx##.ioo
 www.avast.com##.sticky-post-widget
+www.ipaddress.com###ip-wrapper > form
+www.ipaddress.com###ip-wrapper > h2
