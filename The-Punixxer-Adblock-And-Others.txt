@@ -186,3 +186,7 @@ www.ipaddress.com##[src="https://spokeoaffiliates.com/v2/banners/email/?ftype=em
 /js/allscript.js^$script
 www.weboost.com##.lg\:\[\&\>\*\]\:grid-cols-\[8fr_1fr_1fr\].\[\&\>\*\]\:grid-cols-1.\32 xl\:\[\&\>\*\]\:lg\:grid-cols-\[8fr_1fr_2fr\]
 /reportads.js*$script
+jav.guru##+js(nowoif)
+||crackshash.com/dc.php?$popup
+crackshash.com##.wp-ad
+crackshash.com##+js(abort-current-script, document.getElementsByClassName, wp-ad)
