@@ -190,3 +190,4 @@ jav.guru##+js(nowoif)
 ||crackshash.com/dc.php?$popup
 crackshash.com##.wp-ad
 crackshash.com##+js(abort-current-script, document.getElementsByClassName, wp-ad)
+sikatpinoy.net##.js-notices.notices--bottom_fixer.notices
