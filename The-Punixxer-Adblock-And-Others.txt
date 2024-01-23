@@ -194,7 +194,6 @@ sikatpinoy.net##.js-notices.notices--bottom_fixer.notices
 www.workabroad.ph##.animated.fadeInUp.d-block.rounded-0.alert-dismissible.alert.call-out.cta-signup.d-none.position-sticky.p-4.bg-testimonial
 trust.zone###antimessage > div
 /js/canvas.js*$script
-/js/ip.js*$script
 /hb/dall.js*$script
 /dall.js*$script
 /detroitchicago/boise.js*$script
