@@ -220,7 +220,7 @@ trust.zone###antimessage > div
 /detroitchicago/wichita.js*$script
 /wichita.js*$script
 detroitchicago/raleigh.js*$script
-/raleigh.js**$script
+/raleigh.js*$script
 /detroitchicago/vista.js*$script
 /vista.js*$script
 /leaflet/leaflet.js*$script
