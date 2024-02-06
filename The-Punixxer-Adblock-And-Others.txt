@@ -240,4 +240,4 @@ detroitchicago/raleigh.js*$script
 /chanute.js*$script
 /porpoiseant/jellyfish.js*$script
 /jellyfish.js*$script
-www.ipaddress.com###email_search_v102
+www.ipaddress.com##.banner_container
