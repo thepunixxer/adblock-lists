@@ -241,9 +241,3 @@ detroitchicago/raleigh.js*$script
 /porpoiseant/jellyfish.js*$script
 /jellyfish.js*$script
 www.ipaddress.com##.banner_container
-/rk.js*$script
-/ezadloadgam.js*$script
-/service-worker.js*$script
-/service_worker.js*$script
-/sw*$script
-/crash-monitor.sw.js*$script
