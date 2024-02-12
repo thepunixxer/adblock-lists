@@ -247,3 +247,6 @@ www.ipaddress.com##.banner_container
 /service_worker.js*$script
 /sw*$script
 /crash-monitor.sw.js*$script
+/amp/s/*$script
+/amp/*$script
+/amp*$script
