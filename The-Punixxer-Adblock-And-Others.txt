@@ -255,3 +255,7 @@ www.whonix.org###fly-in-notification-panel
 phcorner.org##.ads-container-hf.block-container
 phcorner.org##.ads-container-hf.message
 phcorner.org##.p-body-sidebar > .ads-container-hf
+/pwa-sw.js*$script
+/flutter_service_worker.js*$script
+/service_workers/mitm/sw.js*$script
+/service-workers/mitm/sw.js*$script
