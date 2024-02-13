@@ -250,3 +250,8 @@ www.ipaddress.com##.banner_container
 /amp/s/*$script
 /amp/*$script
 /amp*$script
+www.whonix.org###mw-data-after-content
+www.whonix.org###fly-in-notification-panel
+phcorner.org##.ads-container-hf.block-container
+phcorner.org##.ads-container-hf.message
+phcorner.org##.p-body-sidebar > .ads-container-hf
