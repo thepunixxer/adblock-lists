@@ -244,11 +244,7 @@ www.ipaddress.com##.banner_container
 /ezadloadgam.js*$script
 /service-worker.js*$script
 /service_worker.js*$script
-/sw*$script
 /crash-monitor.sw.js*$script
-/amp/s/*$script
-/amp/*$script
-/amp*$script
 www.whonix.org###mw-data-after-content
 www.whonix.org###fly-in-notification-panel
 phcorner.org##.ads-container-hf.block-container
@@ -261,3 +257,4 @@ phcorner.org##.p-body-sidebar > .ads-container-hf
 www.cogentco.com###cookiesck
 phcorner.net##.block-body > .ads-container-hf
 www.opensignal.com##.smartbanner-android.smartbanner
+search.brave.com##body > div > .svelte-bwuh0n
