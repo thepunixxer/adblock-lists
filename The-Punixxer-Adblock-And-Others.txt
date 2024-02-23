@@ -14,7 +14,6 @@ torrentsites.com##[src="https://torrentsites.com/wp-content/uploads/2023/06/BANN
 torrentsites.com##.category.block-vpn
 howdy.id##div.bg-white.py-6 > .container > .text-center
 howdy.id##div.bg-white.py-6:nth-of-type(2)
-search.brave.com##footer
 phcorner.net##.p-body-content > .ads-container-hf
 phcorner.net##.p-body-pageContent > .ads-container-hf > .adsbygoogle
 status.phc.onl##.note-bordered.note-danger.note
@@ -259,3 +258,7 @@ phcorner.org##.p-body-sidebar > .ads-container-hf
 /flutter_service_worker.js*$script
 /service_workers/mitm/sw.js*$script
 /service-workers/mitm/sw.js*$script
+www.cogentco.com###cookiesck
+phcorner.net##.block-body > .ads-container-hf
+www.opensignal.com##.smartbanner-android.smartbanner
+search.brave.com##body > div > .svelte-bwuh0n
