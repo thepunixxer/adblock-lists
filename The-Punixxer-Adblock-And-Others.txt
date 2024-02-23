@@ -261,4 +261,3 @@ phcorner.org##.p-body-sidebar > .ads-container-hf
 www.cogentco.com###cookiesck
 phcorner.net##.block-body > .ads-container-hf
 www.opensignal.com##.smartbanner-android.smartbanner
-search.brave.com##body > div > .svelte-bwuh0n
