@@ -33,9 +33,6 @@ www.designify.com###__next > .css-0
 phcorner.net##.js-notices.notices--bottom_fixer.notices
 www.symbianize.com##.js-notices.notices--bottom_fixer.notices
 www.ig.com##.esma-theme-light.esma-mobile-font-size-small.hide-esmaBtn__both.esma-rw__wrapper
-yts.mx##.uy.visible-xs.re.visible-sm.hfc
-yts.mx###iwkjdooqw > .col-lg-12.col-md-13.col-sm-10
-yts.mx##.bbj.tr.hidden-xs.hidden-sm.jhjh
 softwarekeep.com##div:nth-of-type(7)
 xhamster.com##.pinned-35203.container-e696b
 xhamster.com##aside.pinned-35203:nth-of-type(1)
@@ -61,8 +58,6 @@ www.makeuseof.com##._1U8keQ4i
 www.makeuseof.com##.aJVLc6uP
 www.makeuseof.com##._5kE-6aUK._9r0K-Oum
 storgykids.wordpress.com##.widget_eu_cookie_law_widget.widget
-yts.mx##div.row:nth-of-type(2) > .col-xs-20 > .text-center > li
-yts.mx##div.row:nth-of-type(3) > .col-xs-20 > .text-center
 www.eth-services.de##.simple-banner-scrolling.simple-banner
 www.bidsbee.com##.Notify_wrapper__jP31T
 www.bitfufu.com##.download-footer.footer-content
@@ -258,3 +253,8 @@ www.cogentco.com###cookiesck
 phcorner.net##.block-body > .ads-container-hf
 www.opensignal.com##.smartbanner-android.smartbanner
 search.brave.com##body > div > .svelte-bwuh0n
+ssstwitter.com###adBottom
+m.facebook.com##.bottom.fixed-container.m > .bg-s2.m
+m.facebook.com##.bottom.fixed-container.m > .bg-s3.m
+yts.mx##div.row:nth-of-type(3) > .col-xs-20 > .text-center
+yts.mx##div.row:nth-of-type(2) > .col-xs-20 > .text-center
