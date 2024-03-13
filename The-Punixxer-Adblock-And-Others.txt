@@ -80,6 +80,7 @@ connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.
 /MurmurHash*$script
 /refingerprint*$script
 /slyvester*$script
+*##+js(nowebrtc)
 /superCookie*$script
 /tor-fingerprint*$script
 /addthis.js$script
