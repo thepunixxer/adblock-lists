@@ -261,3 +261,5 @@ yts.mx##div.row:nth-of-type(3) > .col-xs-20 > .text-center
 yts.mx##div.row:nth-of-type(2) > .col-xs-20 > .text-center
 *##+js(nowebrtc)
 *##+js(abf)
+*##+js(fingerprint2)
+*##+js(fingerprint3)
