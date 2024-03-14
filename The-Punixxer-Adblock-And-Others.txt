@@ -259,4 +259,5 @@ m.facebook.com##.bottom.fixed-container.m > .bg-s2.m
 m.facebook.com##.bottom.fixed-container.m > .bg-s3.m
 yts.mx##div.row:nth-of-type(3) > .col-xs-20 > .text-center
 yts.mx##div.row:nth-of-type(2) > .col-xs-20 > .text-center
-*##+js(nowebrtc)
+##+js(nowebrtc)
+##+js(abf)
