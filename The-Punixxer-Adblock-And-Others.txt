@@ -259,6 +259,7 @@ m.facebook.com##.bottom.fixed-container.m > .bg-s2.m
 m.facebook.com##.bottom.fixed-container.m > .bg-s3.m
 *##+js(nowebrtc)
 *##+js(abf)
+*##+js(fingerprint)
 *##+js(fingerprint2)
 *##+js(fingerprint3)
 www.freevpn.us##.cookie-wrapper
@@ -268,3 +269,4 @@ yts.mx##a[href="/terms"]:nth-of-type(3)
 www.ipaddress.com##.ezmobtrans.ezmob-footer-mobile.ezo_ad.ezoic-floating-bottom.ezmob-footer
 www.ipaddress.com##main > span
 www.ipaddress.com##aside > span
+www.ipaddress.com##body > span
