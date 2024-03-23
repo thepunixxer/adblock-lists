@@ -221,7 +221,4 @@ www.ipaddress.com##body > span
 www.blackhatworld.com##.js-notices
 www.blackhatworld.com##.j65fb6c1953936673580990.b65fb6c1953930316485402
 www.growtraffic.co.uk##.cookie-notice-container
-@@/amp*
-@@/amp/s*
-@@*ampproject.org
 *##+js(amp)
