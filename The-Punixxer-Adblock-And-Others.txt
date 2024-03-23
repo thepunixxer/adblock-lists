@@ -210,6 +210,7 @@ canvas.js*$script
 webgl.js*$script
 fonts.js*$script
 geo.js*$script
+webrtc.js*$script
 www.freevpn.us##.cookie-wrapper
 yts.mx##a[href="/terms"]:nth-of-type(2)
 yts.mx##a[href="/terms"]:nth-of-type(3)
