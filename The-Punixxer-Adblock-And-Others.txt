@@ -188,20 +188,11 @@ sikatpinoy.net##.js-notices.notices--bottom_fixer.notices
 www.workabroad.ph##.animated.fadeInUp.d-block.rounded-0.alert-dismissible.alert.call-out.cta-signup.d-none.position-sticky.p-4.bg-testimonial
 trust.zone###antimessage > div
 www.ipaddress.com##.banner_container
-/rk.js*$script
-/ezadloadgam.js*$script
-/service-worker.js*$script
-/service_worker.js*$script
-/crash-monitor.sw.js*$script
 www.whonix.org###mw-data-after-content
 www.whonix.org###fly-in-notification-panel
 phcorner.org##.ads-container-hf.block-container
 phcorner.org##.ads-container-hf.message
 phcorner.org##.p-body-sidebar > .ads-container-hf
-/pwa-sw.js*$script
-/flutter_service_worker.js*$script
-/service_workers/mitm/sw.js*$script
-/service-workers/mitm/sw.js*$script
 www.cogentco.com###cookiesck
 phcorner.net##.block-body > .ads-container-hf
 www.opensignal.com##.smartbanner-android.smartbanner
