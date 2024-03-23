@@ -224,3 +224,4 @@ www.growtraffic.co.uk##.cookie-notice-container
 @@/amp*
 @@/amp/s*
 @@*ampproject.org
+*##+js(amp)
