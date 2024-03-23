@@ -256,9 +256,14 @@ search.brave.com##body > div > .svelte-bwuh0n
 ssstwitter.com###adBottom
 m.facebook.com##.bottom.fixed-container.m > .bg-s2.m
 m.facebook.com##.bottom.fixed-container.m > .bg-s3.m
+*##+js(nowebrtc)
+*##+js(abf)
+*##+js(fingerprint)
+*##+js(proxy)
 *##+js(nowebrtc*)
 *##+js(abf*)
 *##+js(fingerprint*)
+*##+js(proxy*)
 www.freevpn.us##.cookie-wrapper
 yts.mx##a[href="/terms"]:nth-of-type(2)
 yts.mx##a[href="/terms"]:nth-of-type(3)
