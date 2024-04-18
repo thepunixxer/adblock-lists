@@ -271,3 +271,6 @@ amp-loader-0.1.mjs$script
 ||cdn.ampproject.org/*/*/v0/amp-lightbox-0.1.mjs$script
 ||cdn.ampproject.org/*/*/v0/amp-animation-0.1.mjs$script
 ||cdn.ampproject.org/*/*/v0/amp-position-observer-0.1.mjs$script
+news.abs-cbn.com##.css-aszbhx.MuiBox-root.wrapper
+www.freevpn.us##.mb-3.text-ads
+www.lagofast.com##.z-\[999\].md\:p-\[8px_12px\].md\:w-full.md\:text-\[10px\].md\:rounded-none.md\:bottom-0.md\:left-0.text-\[16px\].p-\[22px_28px\].w-\[420px\].text-white.rounded-\[10px\].bg-\[\#393939\].bottom-\[12px\].left-\[10px\].fixed
