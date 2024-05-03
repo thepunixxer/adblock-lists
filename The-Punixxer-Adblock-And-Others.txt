@@ -278,3 +278,7 @@ www.lagofast.com##.z-\[999\].md\:p-\[8px_12px\].md\:w-full.md\:text-\[10px\].md\
 /fingerprint*
 /rtv/012403072016000/v0*
 /rtv/012403072016000/*
+www.google.com###xe7COe
+xhamster.desi##.wrapper-886ab.mobile-886ab
+news.abs-cbn.com##.css-2m7126.MuiBox-root.wrapper
+news.abs-cbn.com##div.css-15j76c0.MuiGrid-grid-md-12.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(3)
