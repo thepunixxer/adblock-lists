@@ -68,11 +68,9 @@ connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.
 /detect-font-loading*$script
 /evercookie/*
 /evercookie*$script
-#/fingerprint*$script
 /font-detect*$script
 /fontdetect*$script
 /font-detective*$script
-#/hsts*$script
 /jquery.browser-fingerprint*$script
 /js-murmur*$script
 /machineSecret.js$script
@@ -100,7 +98,6 @@ connect.mozilla.org##.lia-component-gdprcookiebanner-widget-cookie-banner-alert.
 /distillnetworks.js$script
 /doubleverify.js$script
 /fbevents.js$script
-/fingerprint2.js$script
 /fingerprintjs_commercial.js$script
 /forter.js$script
 /fraudmetrix.js$script
@@ -284,3 +281,19 @@ news.abs-cbn.com##div.css-15j76c0.MuiGrid-grid-md-12.MuiGrid-grid-xs-12.MuiGrid-
 www.whatismyisp.com##body > .eip
 torrentsites.com##.header-block-ads > .container
 yts.rs##.in.modal-backdrop.fade
+/fingerprint.js$script
+/js/fingerprint.js$script
+/fingerprint1.js$script
+/js/fingerprint1.js$script
+/fingerprint2.js$script
+/js/fingerprint2.js$script
+/fingerprint3.js$script
+/js/fingerprint3.js$script
+/fingerprint4.js$script
+/js/fingerprint4.js$script
+/fingerprint5.js$script
+/js/fingerprint5.js$script
+/fingerprint6.js$script
+/js/fingerprint6.js$script
+/fingerprint7.js$script
+/js/fingerprint7.js$script
