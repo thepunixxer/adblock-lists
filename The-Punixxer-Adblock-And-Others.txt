@@ -275,7 +275,6 @@ amp-loader-0.1.mjs$script
 news.abs-cbn.com##.css-aszbhx.MuiBox-root.wrapper
 www.freevpn.us##.mb-3.text-ads
 www.lagofast.com##.z-\[999\].md\:p-\[8px_12px\].md\:w-full.md\:text-\[10px\].md\:rounded-none.md\:bottom-0.md\:left-0.text-\[16px\].p-\[22px_28px\].w-\[420px\].text-white.rounded-\[10px\].bg-\[\#393939\].bottom-\[12px\].left-\[10px\].fixed
-/fingerprint*
 /rtv/012403072016000/v0*
 /rtv/012403072016000/*
 www.google.com###xe7COe
@@ -284,3 +283,4 @@ news.abs-cbn.com##.css-2m7126.MuiBox-root.wrapper
 news.abs-cbn.com##div.css-15j76c0.MuiGrid-grid-md-12.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(3)
 www.whatismyisp.com##body > .eip
 torrentsites.com##.header-block-ads > .container
+yts.rs##.in.modal-backdrop.fade
