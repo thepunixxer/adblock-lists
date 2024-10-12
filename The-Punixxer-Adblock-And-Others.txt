@@ -203,12 +203,16 @@ m.facebook.com##.bottom.fixed-container.m > .bg-s3.m
 *##+js(nowebrtc*)
 *##+js(abf*)
 *##+js(fingerprint*)
-canvas.js*$script
-webgl.js*$script
-fonts.js*$script
-geo.js*$script
-/webrt.js*$script
-/webrtc
+*##+js(canvas)
+*##+js(canvas*)
+*##+js(webgl)
+*##+js(webgl*)
+*##+js(fonts)
+*##+js(fonts*)
+*##+js(geo)
+*##+js(*geo)
+*##+js(webrtc)
+*##+js(webrtc*)
 www.freevpn.us##.cookie-wrapper
 yts.mx##a[href="/terms"]:nth-of-type(2)
 yts.mx##a[href="/terms"]:nth-of-type(3)
@@ -281,19 +285,3 @@ news.abs-cbn.com##div.css-15j76c0.MuiGrid-grid-md-12.MuiGrid-grid-xs-12.MuiGrid-
 www.whatismyisp.com##body > .eip
 torrentsites.com##.header-block-ads > .container
 yts.rs##.in.modal-backdrop.fade
-/fingerprint.js$script
-/js/fingerprint.js$script
-/fingerprint1.js$script
-/js/fingerprint1.js$script
-/fingerprint2.js$script
-/js/fingerprint2.js$script
-/fingerprint3.js$script
-/js/fingerprint3.js$script
-/fingerprint4.js$script
-/js/fingerprint4.js$script
-/fingerprint5.js$script
-/js/fingerprint5.js$script
-/fingerprint6.js$script
-/js/fingerprint6.js$script
-/fingerprint7.js$script
-/js/fingerprint7.js$script
