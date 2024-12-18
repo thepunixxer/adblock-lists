@@ -271,3 +271,16 @@ yts.rs##.in.modal-backdrop.fade
 *##+js(dfp.min*)
 *##+js(reportads*)
 *##+js(amp*)
+www.softflix.com##.Cookies_container__zN7yZ
+torrentz2.io##.blinking.generic
+docs.merkulov.design##.mdp-cookies-box
+||news.abs-cbn.com$generichide,elemhide,specifichide,xhr
+news.abs-cbn.com##.css-1u3t278.MuiGrid-container.MuiGrid-root > div.css-15j76c0.MuiGrid-grid-md-12.MuiGrid-grid-xs-12.MuiGrid-item.MuiGrid-root:nth-of-type(7)
+beencrypted.com##.ps-featured_block__active
+beencrypted.com##.text-center.z-40.py-0\.5.w-full.left-0.bottom-0.fixed.bg-primary-400.ps-cookiebar
+xhamster.com##.root-6d67f
+faucetcrypto.com##div.grid-responsive-2.grid > div.items-center.justify-center.flex
+faucetcrypto.com##.my-4.items-center.justify-center.flex > .rounded.shadow
+faucetcrypto.com##.md\:pb-0.md\:py-6.pt-2.md\:px-6.sm\:px-4.px-2.max-w-7xl.mx-auto > .mb-4.items-center.justify-center.flex
+faucetcrypto.com##.my-4.items-center.justify-center.flex
+cointiply.com##.md-whiteframe-3dp.fl-ad-left
