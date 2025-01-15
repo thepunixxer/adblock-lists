@@ -284,3 +284,13 @@ faucetcrypto.com##.my-4.items-center.justify-center.flex > .rounded.shadow
 faucetcrypto.com##.md\:pb-0.md\:py-6.pt-2.md\:px-6.sm\:px-4.px-2.max-w-7xl.mx-auto > .mb-4.items-center.justify-center.flex
 faucetcrypto.com##.my-4.items-center.justify-center.flex
 cointiply.com##.md-whiteframe-3dp.fl-ad-left
+faucetcrypto.com##.sm\:py-0\.5.px-1\.5.justify-center.flex.w-full.bg-gray-800
+faucetcrypto.com##.md\:mb-2.mb-3.md\:-mt-2.justify-between.items-center.flex > .items-end.flex-col.flex
+faucetcrypto.com##.mt-3.items-center.justify-center.flex
+faucetcrypto.com##.md\:pb-0.md\:py-6.pt-2.md\:px-6.sm\:px-4.px-2.max-w-7xl.mx-auto > div > .mb-4.items-center.justify-center.flex
+faucetcrypto.com##.mt-4.items-center.justify-center.flex
+app.getgrass.io##.css-wl0d9u.chakra-modal__content-container
+app.getgrass.io##.css-s2ka2m.chakra-modal__overlay
+limetorrents.*##+js(nowoif)
+www.limetorrents.*##[src="/static/images/gamestoday.jpg"]
+faucetcrypto.com##.justify-between.items-center.sm\:flex-row.flex-col.flex.sm\:px-6.py-5.px-4
