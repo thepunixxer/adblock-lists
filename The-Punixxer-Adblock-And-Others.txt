@@ -6,7 +6,6 @@ ssyoutube.com##.widget__button--link.widget__button
 ssyoutube.com##.widget__text
 ssyoutube.com##.widget__title
 ssyoutube.com##.widget__container
-www.scribd.com##.user_dismiss.entered.login_join_modal.wrapper
 torrentsites.com##.info
 ||torrentsites.com/wp-content/uploads/2023/08/banner-test-torrent-5.png$image
 torrentsites.com##[src="https://torrentsites.com/wp-content/uploads/2023/08/banner-test-torrent-5.png"]
