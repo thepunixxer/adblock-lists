@@ -293,3 +293,4 @@ app.getgrass.io##.css-s2ka2m.chakra-modal__overlay
 limetorrents.*##+js(nowoif)
 www.limetorrents.*##[src="/static/images/gamestoday.jpg"]
 faucetcrypto.com##.justify-between.items-center.sm\:flex-row.flex-col.flex.sm\:px-6.py-5.px-4
+coinsbaron.com##.css-t4oqey.MuiStack-root
