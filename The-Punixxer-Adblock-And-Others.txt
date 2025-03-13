@@ -13,14 +13,14 @@ torrentsites.com##[src="https://torrentsites.com/wp-content/uploads/2023/06/BANN
 torrentsites.com##.category.block-vpn
 howdy.id##div.bg-white.py-6 > .container > .text-center
 howdy.id##div.bg-white.py-6:nth-of-type(2)
-phcorner.net##.p-body-content > .ads-container-hf
-phcorner.net##.p-body-pageContent > .ads-container-hf > .adsbygoogle
+phcorner.org##.p-body-content > .ads-container-hf
+phcorner.org##.p-body-pageContent > .ads-container-hf > .adsbygoogle
 status.phc.onl##.note-bordered.note-danger.note
-phcorner.net##.p-body-sidebar > .ads-container-hf > .adsbygoogle
-phcorner.net##.ads-container-hf > .block-minorHeader
-phcorner.net##.ads-container-hf.block-container
-phcorner.net##.js-replyNewMessageContainer.block-body > .ads-container-hf > .adsbygoogle
-phcorner.net##.ads-container-hf.message
+phcorner.org##.p-body-sidebar > .ads-container-hf > .adsbygoogle
+phcorner.org##.ads-container-hf > .block-minorHeader
+phcorner.org##.ads-container-hf.block-container
+phcorner.org##.js-replyNewMessageContainer.block-body > .ads-container-hf > .adsbygoogle
+phcorner.org##.ads-container-hf.message
 torrentgalaxy.to##.gluewrapper > div > div > div > [href^="/sub.php"]
 torrentgalaxy.to##.slidingDivf-dca35c15735cf93484f0228060eeadafceaab2ac.panel-body > div > div > [href]
 torrentgalaxy.to##.control-group.container-fluid > .container-fluid > div > div > div > [href]
@@ -29,7 +29,7 @@ crackshash.com##.wp-ad.wp-ad-top
 crackshash.com##.ad-box-below
 duckduckgo.com##.footer--mobile
 www.designify.com###__next > .css-0
-phcorner.net##.js-notices.notices--bottom_fixer.notices
+phcorner.org##.js-notices.notices--bottom_fixer.notices
 www.symbianize.com##.js-notices.notices--bottom_fixer.notices
 www.ig.com##.esma-theme-light.esma-mobile-font-size-small.hide-esmaBtn__both.esma-rw__wrapper
 softwarekeep.com##div:nth-of-type(7)
@@ -120,9 +120,6 @@ trust.zone###antimessage > div
 www.ipaddress.com##.banner_container
 www.whonix.org###mw-data-after-content
 www.whonix.org###fly-in-notification-panel
-phcorner.org##.ads-container-hf.block-container
-phcorner.org##.ads-container-hf.message
-phcorner.org##.p-body-sidebar > .ads-container-hf
 www.cogentco.com###cookiesck
 phcorner.net##.block-body > .ads-container-hf
 www.opensignal.com##.smartbanner-android.smartbanner
