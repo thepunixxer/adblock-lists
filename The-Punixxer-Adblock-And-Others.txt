@@ -291,3 +291,4 @@ limetorrents.*##+js(nowoif)
 www.limetorrents.*##[src="/static/images/gamestoday.jpg"]
 faucetcrypto.com##.justify-between.items-center.sm\:flex-row.flex-col.flex.sm\:px-6.py-5.px-4
 coinsbaron.com##.css-t4oqey.MuiStack-root
+phcorner.*##.p-body-sidebar > div.ads-container-hf
