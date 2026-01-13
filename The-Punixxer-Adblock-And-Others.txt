@@ -103,8 +103,8 @@ mytoolz.net##.__b-popup1__.b-modal
 www.ipaddress.com##[src="https://spokeoaffiliates.com/v2/banners/email/?ftype=email&amp;phone=&amp;type=email_search&amp;v=102"]
 /gpt.js$script
 /publisher/*/truereachAdRender.js$script
-yts.mx##.uy
-yts.mx##.ioo
+yts.*##.uy
+yts.*##.ioo
 www.avast.com##.sticky-post-widget
 www.ipaddress.com###ip-wrapper > form
 www.ipaddress.com###ip-wrapper > h2
@@ -128,8 +128,6 @@ ssstwitter.com###adBottom
 m.facebook.com##.bottom.fixed-container.m > .bg-s2.m
 m.facebook.com##.bottom.fixed-container.m > .bg-s3.m
 www.freevpn.us##.cookie-wrapper
-yts.mx##a[href="/terms"]:nth-of-type(2)
-yts.mx##a[href="/terms"]:nth-of-type(3)
 www.ipaddress.com##.ezmobtrans.ezmob-footer-mobile.ezo_ad.ezoic-floating-bottom.ezmob-footer
 www.ipaddress.com##main > span
 www.ipaddress.com##aside > span
